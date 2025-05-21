@@ -5,9 +5,9 @@ My areas of interests would be :
 
 
 - 📈 Quantitative Finance, Risk Modeling, ESG Integration  
-- 📊 Data Science, Time Series Forecasting  
-- 💻 Python, Streamlit, XGBoost, Plotly, SARIMAX  
-- 🌍 Sustainable Finance & Energy Markets
+- 📊 Data Science, Time Series Forecasting, Machine Learning
+- 💻 Python, Jupyter, C++,  HTML 
+- 🌍 Sustainable Finance & Commodities Markets
 
 I am currently building a solid foundation in energy markets and trading strategies, while also deepening my expertise in machine learning techniques specifically tailored to energy and commodity markets !
 
